@@ -57,9 +57,7 @@ export default function Contact() {
           <Button variant="contained" href={data.github} target="_blank">
             GitHub
           </Button>
-          <Button variant="contained" href={data.thopMember} target="_blank">
-            Thop Member
-          </Button>
+          
         </Stack>
       </Card>
     </Container>
