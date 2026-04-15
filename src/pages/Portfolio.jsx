@@ -11,6 +11,7 @@ import Education from "../components/Education";
 import Contact from "../components/Contact";
 import Footer from "../components/Footer";
 import Header from "../components/Header";
+import Certificates from "../components/Certificates";
 
 const Portfolio = () => {
   return (
@@ -22,6 +23,7 @@ const Portfolio = () => {
       <Experience />
       <Projects />
       <Skills />
+      <Certificates />
       <Training />
       <ExtraCurricular />
       <Contact />

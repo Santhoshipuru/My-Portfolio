@@ -1,7 +1,7 @@
 const data = {
   name: "Puru Santhoshi",
   title: "Full Stack Developer",
-  tagline: "Computer Science Graduate from JNTUH University with hands-on experience in Web Development through a 2-month online internship at  through internship at Edvedha Management, as well as real-time projects.",
+  tagline: "Computer Science Graduate from JNTUH University with hands-on experience in Web Development through a 2-month internship at EdVedha Edutech Pvt Ltd and real-time projects in full stack development.",
   email: "santhoshipuru@gmail.com",
   phone: "+91 9063430575",
   linkedin: "https://www.linkedin.com/in/santhoshi-puru-b95749315",
@@ -16,14 +16,14 @@ const data = {
   // },
   training: {
     title: "Java Full Stack Trainee",
-    company: "Q-J Spiders",
+    company: "Q-J Spiders Institute",
     duration: "July 2025 - Present",
     desc: "Undergoing Java Full Stack Development training at Q-J Spiders, covering Core Java, OOP, exception handling, and SQL for backend data management. Building a strong foundation in Java programming and relational database concepts to develop efficient and scalable applications.",
   },
   experience: [
     {
-      role: " Online Web Development Intern",
-      org: "EdVedha Management",
+      role: "Web Development Intern",
+      org: "EdVedha Edutech Pvt Ltd",
       period: "Sep 2024 - Nov 24",
       desc: " Gained hands-on experience in web technologies including HTML, CSS, JavaScript, TypeScript, React.js, and responsive web design. Worked on real-time web applications and developed reusable UI components using React. Acquired proficiency in design tools such as Figma and focused on building responsive, user-friendly interfaces.",
     }
@@ -49,9 +49,9 @@ const data = {
   },
 ],
   extracurricular: [
-    "Student Coordinator — Coordinated with classmates and faculty regarding academic updates, events, and placement-related communication.",
-    "Technical Project Development — Actively built web applications including E-commerce, Portfolio, and Task Manager projects using React.js and modern web technologies.",
-    "Continuous Learning — Actively improved skills in React.js, JavaScript, Tailwind CSS, and UI development through self-learning, online courses, and practical projects.",
+    "Student Coordinator — Coordinated academic updates, events, and placement-related communication between faculty and students.",
+    "Technical Project Development — Built web applications including E-commerce, Portfolio, and Task Manager using React.js and modern web technologies.",
+    "Continuous Learning — Actively improved skills in React.js, JavaScript, Tailwind CSS, and UI development through self-learning and projects.",
   ],
   coursework: ["Java", "HTML", "CSS", "JavaScript","React.js", "Data Structures", "Database Management"],
   education: {
@@ -60,7 +60,40 @@ const data = {
     period: "Dec 2021 - June 2025",
     cgpa: "7.23",
   },
+  certifications: [
+  {
+    title: "Internship Completion Certificate",
+    subtitle: "By EdVedha",
+    image: "../Training.jpg",
+  },
+  {
+    title: "Outstanding Performance Certificate",
+    subtitle: "By EdVedha",
+    image: "../Outstanding.jpg",
+  },
+  {
+    title: "Internship Completion Certificate",
+    subtitle: "By EdVedha",
+    image: "../Internship.jpg",
+  },
+  {
+    title: "Project Completion Certificate",
+    subtitle: "By EdVedha",
+    image: "../Project.jpg",
+  },
+  {
+    title: "Employability Skill Training Program Certificate",
+    subtitle: "By Mahindra Pride Classroom - Naandi Foundation",
+    image: "../Naandhi Foundation.jpg",
+  },
+  {
+    title: "Kuchipudi Classical Dance Certificate",
+    subtitle: "By Natwar Nruthya and Sangeeth Kalakshetram",
+    image: "../Classical Dance.jpg",
+  },
+]
 };
+
 
 
 export default data;
